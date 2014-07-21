@@ -1,8 +1,9 @@
 {
-	"count": 1,
+	"count": 2,
 	"categories": {
 		"scroll": [
-			1
+			1,
+			2
 		]
 	}
 }

@@ -1,0 +1,23 @@
+{
+	"index": 2,
+	"type": "scroll",
+	"url": "/scroll/2",
+	"author": "admin",
+	"prettyStartDate": "Monday, July 7th, 2014",
+	"prettyStartTime": "03:28:05 pm",
+	"startDate": "2014,7,21",
+	"startTime": "15:28:5",
+	"headline": "Test",
+	"text": "Some test content",
+	"asset": {
+		"caption": "",
+		"credit": "",
+		"media": "",
+		"thumbnail": ""
+	},
+	"endDate": "",
+	"endTime": "",
+	"published": true,
+	"tag": "",
+	"uuid": "9069c1c0-bd5b-4785-a016-cb9466089b06"
+}
