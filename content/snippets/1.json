@@ -1,15 +1,23 @@
 {
-  "startDate": "2012,1,31",
-  "endDate": "",
-  "headline": "nooline is born!",
-  "text": "From a crazy idea, a desire for something new, and a little inspiration from the node.js community, nooline was begat upon the world.",
-  "tag": "nooline",
-  "asset": {
-    "media": "",
-    "thumbnail": "",
-    "credit": "",
-    "caption": ""
-  },
-  "index": 1,
-  "uuid": "9a07beb6-d0c1-4c0d-8982-92a48909b703"
+	"asset": {
+		"media": "",
+		"thumbnail": "",
+		"credit": "",
+		"caption": ""
+	},
+	"author": "admin",
+	"endDate": "",
+	"endTime": "",
+	"headline": "nooline is born!",
+	"index": 1,
+	"prettyStartDate": "Monday, July 7th, 2014",
+	"prettyStartTime": "03:10:29 pm",
+	"published": true,
+	"startDate": "2014,7,21",
+	"startTime": "15:10:29",
+	"tag": "nooline",
+	"text": "From a crazy idea, a desire for something new, and a little inspiration from the node.js community, nooline was begat upon the world.",
+	"type": "scroll",
+	"url": "/scroll/1",
+	"uuid": "9a07beb6-d0c1-4c0d-8982-92a48909b703"
 }
