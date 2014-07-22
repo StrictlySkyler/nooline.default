@@ -1,23 +1,23 @@
 {
-	"index": 2,
-	"type": "scroll",
-	"url": "/scroll/2",
-	"author": "admin",
-	"prettyStartDate": "Monday, July 7th, 2014",
-	"prettyStartTime": "03:28:05 pm",
-	"startDate": "2014,7,21",
-	"startTime": "15:28:5",
-	"headline": "Test",
-	"text": "Some test content",
 	"asset": {
 		"caption": "",
 		"credit": "",
 		"media": "",
 		"thumbnail": ""
 	},
+	"author": "admin",
 	"endDate": "",
 	"endTime": "",
+	"headline": "Headline",
+	"index": 2,
+	"prettyStartDate": "Tuesday, July 7th, 2014",
+	"prettyStartTime": "03:10:35 pm",
 	"published": true,
+	"startDate": "2014,7,22",
+	"startTime": "15:10:35",
 	"tag": "",
+	"text": "Main content",
+	"type": "scroll",
+	"url": "/scroll/2",
 	"uuid": "9069c1c0-bd5b-4785-a016-cb9466089b06"
 }
