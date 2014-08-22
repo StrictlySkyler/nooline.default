@@ -1,0 +1,24 @@
+{
+	"asset": {
+		"caption": "",
+		"credit": "",
+		"media": "",
+		"thumbnail": ""
+	},
+	"author": "admin",
+	"endDate": "",
+	"endTime": "",
+	"headline": "Headline",
+	"index": 4,
+	"prettyStartDate": "Thursday, July 7th, 2014",
+	"prettyStartTime": "06:44:02 pm",
+	"published": true,
+	"startDate": "2074,8,22",
+	"startTime": "15:13:0",
+	"tag": "",
+	"text": "Main content",
+	"type": "scroll",
+	"url": "/scroll/3",
+	"uuid": "61a93d27-8044-47e7-bbbd-c0f83cc8a640",
+	"id": 4
+}

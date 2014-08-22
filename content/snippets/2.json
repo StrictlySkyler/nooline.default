@@ -1,0 +1,23 @@
+{
+	"index": 2,
+	"type": "scroll",
+	"url": "/scroll/2",
+	"author": "admin",
+	"prettyStartDate": "Wednesday, July 7th, 2014",
+	"prettyStartTime": "01:16:10 pm",
+	"startDate": "2014,7,23",
+	"startTime": "13:16:10",
+	"headline": "Headline",
+	"text": "Main content",
+	"asset": {
+		"caption": "",
+		"credit": "",
+		"media": "",
+		"thumbnail": ""
+	},
+	"endDate": "",
+	"endTime": "",
+	"published": true,
+	"tag": "",
+	"uuid": "f01836e9-8b4f-4c36-ab75-1003bb09a0cb"
+}

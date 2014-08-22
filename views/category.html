@@ -3,33 +3,36 @@
   {{> head}}
   <body class="category">
     {{> global-header}}
-    
-    <section id="{{type}}" class="{{type}} content">
+
+    <section id="{{attributes.type}}" class="{{attributes.type}} content">
       {{#attributes.snippets.models}}
-        <article id="{{{attributes.uuid}}}" class="snippet">
-          <h3 class="headline">{{{attributes.headline}}}</h3>
-          <div class="text">
-            <p>{{{attributes.text}}}</p>
-          </div>
-          <footer>
-            {{#attributes.author}}
-              By {{attributes.author}}
-            {{/attributes.author}}
-            
-            {{#attributes.prettyStartDate}}
-              on {{attributes.prettyStartDate}}
-            {{/attributes.prettyStartDate}}
-            
-            {{#attributes.prettyStartTime}} 
-              at {{attributes.prettyStartTime}}
-            {{/attributes.prettyStartTime}}
-          </footer>
-        </article>
+        <div id="{{{attributes.uuid}}}" class="snippet">
+          <article id="{{{attributes.uuid}}}-article">
+            <h3 class="headline">{{{attributes.headline}}}</h3>
+            <div class="text">
+              {{{attributes.text}}}
+            </div>
+            <footer>
+                {{#attributes.author}}
+                  By {{attributes.author}}
+                {{/attributes.author}}
+
+                {{#attributes.prettyStartDate}}
+                  on {{attributes.prettyStartDate}}
+                {{/attributes.prettyStartDate}}
+
+                {{#attributes.prettyStartTime}}
+                  at {{attributes.prettyStartTime}}
+                {{/attributes.prettyStartTime}}
+              </footer>
+            </article>
+          </article>
+        </div>
       {{/attributes.snippets.models}}
     </section>
-    
+
     {{> global-footer}}
-    
+
     {{> global-scripts}}
   </body>
 </html>
